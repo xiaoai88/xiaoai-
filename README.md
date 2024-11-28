@@ -4,3 +4,4 @@
 下载失败请开加速器进行下载
 </p>
 ![1.png](https://raw.githubusercontent.com/xiaoai88/xiaoai-/refs/heads/main/1.png)
+![1.png](1.png)
